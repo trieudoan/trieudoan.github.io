@@ -18,6 +18,8 @@ appnexus.com, 7353, RESELLER
 xandr.com, 7353, RESELLER
 algorix.co, 54616, RESELLER
 admixer.net, 4ca083cd-412f-49fe-b832-5b66ee490d9a, RESELLER
+smartadserver.com, 3020, DIRECT
+smartadserver.com, 3020, RESELLER
 google.com, pub-8164504477045571, RESELLER
 telaria.com, rwd19-35397, RESELLER, 1a4e959a1b50034a
 tremorhub.com, rwd19-35397, RESELLER, 1a4e959a1b50034a
