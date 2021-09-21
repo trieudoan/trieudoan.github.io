@@ -88,4 +88,4 @@ stroeer.com, 17938, DIRECT
 google.com, pub-8164504477045571, RESELLER
 telaria.com, rwd19-35397, RESELLER, 1a4e959a1b50034a
 tremorhub.com, rwd19-35397, RESELLER, 1a4e959a1b50034a
-google.com, , DIRECT, f08c47fec0942fa0
+google.com, pub-2970779840931468, DIRECT, f08c47fec0942fa0
