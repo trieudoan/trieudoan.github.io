@@ -1,5 +1,6 @@
 google.com, pub-2970779840931468, DIRECT, f08c47fec0942fa0
 openx.com, 557745807, DIRECT, 6a698e2ec38604c6
+adingo.jp, 29275, RESELLER
 onetag.com, 7c8a43adaa7c488, DIRECT
 onetag.com, 7c8a43adaa7c488-OB, DIRECT
 appnexus.com, 13099, RESELLER
