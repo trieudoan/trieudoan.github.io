@@ -1,25 +1,7 @@
-.navbar {
-    background-color: #e3f2fd
+.game-card {
+    width: 100%;
 }
 
-.row {
-    margin-bottom: 20px;
-}
-
-.nav-item.active {
-    font-weight: bold;
-}
-
-.flex-container {
-    display: flex;
-    flex-wrap: wrap;
-}
-
-.card {
-    width: 250px;
-    margin: 10px;
-}
-
-.card-body img {
-    width: 120px;
+.game-link img {
+    width: 100px;
 }
