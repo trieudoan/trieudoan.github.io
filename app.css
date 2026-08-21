@@ -1,7 +1,48 @@
+body {
+    background-color: #121212;
+    color: #f8f9fa;
+}
+
 .game-card {
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    border: none;
+    overflow: hidden;
+}
+
+.game-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+}
+
+.game-img-container {
+    position: relative;
+    background-color: #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 220px;
+}
+
+.game-card img.img-fluid {
     width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
 
 .game-link img {
-    width: 100px;
+    height: 40px;
+    /* Uniform height for all store badges */
+    width: auto;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    transition: opacity 0.2s;
+}
+
+.game-link img:hover {
+    opacity: 0.85;
+}
+
+.hero-section {
+    padding: 2rem 0;
+    text-align: center;
 }
